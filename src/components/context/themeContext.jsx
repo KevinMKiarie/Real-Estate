@@ -1,14 +1,11 @@
-import { Link } from 'react-router-dom'
-
+import { Link } from "react-router-dom";
 
 const NavBar = () => {
-  return(
+  return (
     <>
-    <div>
-    
-    </div>
+      <div></div>
     </>
-  )
+  );
 };
 
 export default NavBar;
